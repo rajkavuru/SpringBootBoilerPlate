@@ -14,7 +14,8 @@ public class TopicController {
 		return Arrays.asList(
 				new Topic("raj", "AWS JAVA", "Cloud Architect"),
 				new Topic("anu", "Performance", "Performance Engineering"),
-				new Topic("xyz", "HP Tandem", "Non-Stop Servers")
+				new Topic("xyz", "HP Tandem", "Non-Stop Servers"),
+				new Topic("java", "Java J2EE", "Core Java")
 				);
 	}
 }
